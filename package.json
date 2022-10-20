@@ -38,7 +38,7 @@
     "mobile-detect": "^1.4.2",
     "moment": "^2.18.1",
     "moment-range": "^3.1.1",
-    "mongoose": "^4.11.12",
+    "mongoose": "^4.13.21",
     "node-gcm": "^0.14.9",
     "randomstring": "^1.1.5",
     "request": "^2.83.0",
